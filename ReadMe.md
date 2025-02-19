@@ -6,6 +6,8 @@
 <img src="./images/image.jpg" alt="lora">
 </div>
 
+---
+
 <br>
 
 ##### ⚙️ WiFi and MQTT Settings
@@ -18,6 +20,8 @@ const char* WiFi_PASS = "<WIFI_PASSWORD>";
 const char* MQTT_SERVER = "<MQTT_SERVER_IP>";
 ```
 
+---
+
 <br>
 
 ##### ⚙️ Pinout
@@ -28,6 +32,8 @@ const char* MQTT_SERVER = "<MQTT_SERVER_IP>";
 tx -> rx2
 gnd -> gnd
 ```
+
+---
 
 <br>
 
