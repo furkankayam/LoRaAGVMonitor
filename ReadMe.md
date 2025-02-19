@@ -28,3 +28,17 @@ const char* MQTT_SERVER = "<MQTT_SERVER_IP>";
 tx -> rx2
 gnd -> gnd
 ```
+
+<br>
+
+- UART Device Data
+
+```txt
+t:36|l:1|la:50.00|c:1|br:1|bt:58
+```
+
+- Send Data MQTT Broker
+
+```json
+{"t":36.00,"l":1,"la":50.00,"c":1,"br":1,"bt":31.00}
+```
