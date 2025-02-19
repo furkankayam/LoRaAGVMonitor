@@ -4,7 +4,7 @@
 
 <div align="center">
 <img src="./images/image.jpg" alt="lora">
-<div>
+</div>
 
 <br>
 
