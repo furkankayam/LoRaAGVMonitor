@@ -35,13 +35,13 @@ gnd -> gnd
 
 <br>
 
-- UART Device Data
+- Data sent by the UART device
 
 ```txt
 t:36|l:1|la:50.00|c:1|br:1|bt:58
 ```
 
-- Send Data MQTT Broker
+- Data reaching the MQTT broker
 
 ```json
 {"t":36.00,"l":1,"la":50.00,"c":1,"br":1,"bt":31.00}
