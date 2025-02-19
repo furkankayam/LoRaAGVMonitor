@@ -20,8 +20,6 @@ const char* WiFi_PASS = "<WIFI_PASSWORD>";
 const char* MQTT_SERVER = "<MQTT_SERVER_IP>";
 ```
 
----
-
 <br>
 
 ##### ⚙️ Pinout
